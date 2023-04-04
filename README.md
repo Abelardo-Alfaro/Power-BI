@@ -8,11 +8,17 @@ Power BI connects to a wide range of data sources, including Excel spreadsheets,
 
 That being said, below is a Dashboard that I have created to serve as an example to show distinct and creative power bi dashboards could be, as well as inspire other BI analyst and collaborate with those who are interested.
 
+The totality of tools used where Power Query, Excel, and Power BI. 
+
 All data is invented and is free to use to practice and redistribute. 
 
 <h2>Environments Used </h2>
 
 - <b> Power BI </b>
+
+<h2>Language Used </h2>
+
+- <b> DAX </b>
 
 <h2>Highlights:</h2>
 
